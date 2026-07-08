@@ -100,11 +100,14 @@ The interesting engineering lives in three constraints: **zero-budget infrastruc
 
 ## About the author
 
-**ikstro** — product designer & architect. Wind2Ride is an ongoing experiment: can a designer
-ship and operate a full production product with AI pair-programming instead of a dev team?
-So far: yes — this app is the evidence.
+**ikstro** — I build design systems and aviation products: white-label design systems
+(5 brands live), runtime brand theming from the admin panel, Figma ↔ Token Studio ↔
+Storybook pipelines, airline booking engines, two CDPs. Designing since 1997.
 
-📫 wind2ride.app@gmail.com • [wind2ride.app](https://wind2ride.app) • [Telegram](https://t.me/wind2ride)
+Wind2Ride is my side experiment: can a designer ship and operate a full production
+product with AI pair-programming instead of a dev team? So far: yes — this app is the evidence.
+
+📫 [LinkedIn](https://www.linkedin.com/in/ikstro/) • [Behance](https://www.behance.net/ikstro) • ikstro.design@gmail.com • [wind2ride.app](https://wind2ride.app) • [Telegram](https://t.me/wind2ride)
 
 ## License
 
