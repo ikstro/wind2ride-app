@@ -1,4 +1,4 @@
-# Wind2Ride — the wind-first cycling route planner
+# Wind2Ride — a cycling route planner that reads the wind
 
 <div align="center">
 
@@ -20,12 +20,14 @@
 ## What it is
 
 Every cyclist knows the feeling: the ride out was glorious, the ride home was a wall of wind.
-Wind2Ride is a **pre-ride planner** that treats wind as the first-class citizen of route planning.
-It classifies every segment of your route against the forecast, scores the whole ride, tells you
-whether to **flip the direction**, and suggests **which hour to leave** — before you clip in.
+Wind2Ride is a **pre-ride planner**. It classifies every segment of your route against the
+forecast, scores the whole ride, tells you whether to **flip the direction**, and suggests
+**which hour to leave** — before you clip in.
 
-No ride tracking, no leaderboards, no GPS recording. It does one job: make sure the wind
-works for you.
+And it's social in one honest way: **ride together**. Share a route — and you see when someone
+plans to ride it, so a shared route becomes a shared ride.
+
+No ride tracking, no leaderboards, no GPS recording.
 
 ## How this app was built (the unusual part)
 
@@ -48,6 +50,7 @@ private codebase, published to demonstrate how the product is built.
 - **5-category wind classification** — every route segment is colored by how it fights or rides
   the wind: tailwind → cross-tailwind → crosswind → cross-headwind → headwind
 - **Ride verdict** — one glance answer: is this route good *now*, or better at 17:00, or reversed?
+- **Ride together** — share a route and see who planned to ride it and when; riders show up right on the route
 - **Wind-aware route builder** — build on the map or import GPX/Strava; the wind picture updates live
 - **Reverse-route comparison** — the same loop can be a different ride backwards; the app checks both
 - **7-day / hourly planning** — pick the day and hour, see the wind picture for that exact window
