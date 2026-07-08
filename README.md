@@ -42,7 +42,7 @@ private codebase, published to demonstrate how the product is built.
 ## Screenshots
 
 <div align="center">
-<img src="./assets/screenshot-1.jpg" width="19%" alt="Wind analysis" /> <img src="./assets/screenshot-2.jpg" width="19%" alt="Route planning" /> <img src="./assets/screenshot-3.jpg" width="19%" alt="Wind verdict" /> <img src="./assets/screenshot-4.jpg" width="19%" alt="Weather forecast" /> <img src="./assets/screenshot-5.jpg" width="19%" alt="Planned rides" />
+<img src="./assets/01-hero.jpg" width="19%" alt="Plan the wind. Share the route. Ride together." /> <img src="./assets/02-wind-segments.jpg" width="19%" alt="See every wind segment" /> <img src="./assets/03-best-time.jpg" width="19%" alt="Choose the best time to ride" /> <img src="./assets/04-whos-riding.jpg" width="19%" alt="See who's riding and when" /> <img src="./assets/05-share-link.jpg" width="19%" alt="Share routes with a link" />
 </div>
 
 ## Feature highlights
